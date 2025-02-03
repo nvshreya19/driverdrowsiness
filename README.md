@@ -1,6 +1,4 @@
-<div id="top"></div>
 
-[![Contributors][contributors-shield]][contributors-url]
 
 # Drowsyness-Detection
 
@@ -34,12 +32,6 @@ ________________________________________________________________________________
 * Run the `SleepDetection.py` file after completing the previous steps.
     
 <br>
-   
-## Authors
-
-- [Aritra Ghosh](https://github.com/TheCleverIdiott)
-- [Anoushka Sen](https://github.com/senanoushka)
-- [Sarnabh Haldar](https://github.com/CODERdotEXE)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
